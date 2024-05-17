@@ -35,6 +35,15 @@ The project aims to replicate the basic functionalities of Spotify's web applica
 
    The application should now be running on `http://localhost:5174`.
 
+   ---
+
+   # Preview
+   ![Screenshot 2024-05-17 190051](https://github.com/yourSrijit/React-Spotify-Clone/assets/91645620/ab1119c2-b897-458c-a8d9-1c0b5b74b5c9)
+
+   ![Screenshot 2024-05-17 190132](https://github.com/yourSrijit/React-Spotify-Clone/assets/91645620/aededcbf-ba70-424a-83d6-257b5e35c7ea)
+   ![Screenshot 2024-05-17 190115](https://github.com/yourSrijit/React-Spotify-Clone/assets/91645620/b6d5a3ce-a484-4321-b4a7-be6a4fbfb195)
+
+
 ## Technologies Used
 
 - **React.js:** A JavaScript library for building user interfaces.
